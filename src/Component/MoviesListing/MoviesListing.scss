@@ -1,7 +1,7 @@
 @import "../../Common/colors.scss";
 
 .movie-list,.show-list{
-    margin: 20px 20px;
+    margin: 20px 35px;
     h2{
         color:$font-secondary;
         margin-bottom: 10px;
@@ -9,8 +9,8 @@
     }
 }
 
-.movie-container{
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(210px, 1fr));
-    grid-gap:15px
-}
+// .movie-container{
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill,minmax(210px, 1fr));
+//     grid-gap:15px
+// }

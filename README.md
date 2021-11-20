@@ -1,4 +1,6 @@
 Movies Web App
+OMDB API 
+Search functionality 
 
 Technologies used:
 1. React
